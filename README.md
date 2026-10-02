@@ -29,5 +29,5 @@ A sleek, responsive, and feature-rich weather forecast app built using **HTML**,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DurgasiShankarRao/Weather-Forecast.git
+   git clone https://github.com/DurgasiSankarRao/Weather-Forecast.git
    cd weather-forecast
